@@ -4,7 +4,7 @@ import os
 import string
 from datetime import datetime
 import calendar
-import smtplib  # Library untuk mengirim email
+import smtplib 
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
